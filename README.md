@@ -5,7 +5,7 @@
 
 **Skills**
 
-Data Cleaning
-Data Validation
-Feature Engineering
+Data Cleaning  
+Data Validation  
+Feature Engineering  
 Naive Bayes ML model building and evaluation
