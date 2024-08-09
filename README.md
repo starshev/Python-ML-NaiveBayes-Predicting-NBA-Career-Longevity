@@ -1,4 +1,4 @@
-# Machine Learning with Python · Naive Bayes Classifier · NBA Games
+# ML with Python · Naive Bayes Classifier · NBA Games
 
 **Context**
 
