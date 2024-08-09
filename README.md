@@ -11,5 +11,5 @@ The first step is to conduct feature engineering to determine which features wil
 Data Cleaning  
 Data Validation  
 Feature Engineering  
-Naive Bayes ML model building
+Naive Bayes ML model building  
 Naive Bayes ML model evaluation
