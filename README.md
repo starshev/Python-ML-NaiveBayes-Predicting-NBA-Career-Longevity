@@ -1,4 +1,4 @@
-# ML with Python · Naive Bayes Classifier · NBA Games
+# ML with Python · Naive Bayes Classifier · NBA Players
 
 **Context**
 
@@ -11,4 +11,5 @@ The first step is to conduct feature engineering to determine which features wil
 Data Cleaning  
 Data Validation  
 Feature Engineering  
-Naive Bayes ML model building and evaluation
+Naive Bayes ML model building
+Naive Bayes ML model evaluation
