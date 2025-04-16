@@ -1,13 +1,15 @@
-# ML with Python · Predicting NBA Career Longevity
+# Machine Learning with Python for Predicting NBA Career Longevity
 
-### Project Overview
-Built a Naive Bayes classification model to help NBA managers and coaches identify players likely to succeed in high-pressure environments and sustain a career of at least five years. The project involved feature engineering, data cleaning, and model building to develop a predictive tool based on player performance data.
+### Task  
+Build a Naive Bayes classification model to predict whether a basketball player is likely to sustain a career of at least five years. Focus on feature engineering, data cleaning, and model development using performance data.
 
-### Key Skills
-Data cleaning, validation, feature engineering, Naive Bayes model building, and model evaluation.
+### Skills  
+Data cleaning, data validation, feature engineering, Naive Bayes classification, model evaluation.
 
-### Описание проекта
-Построена модель классификации Naive Bayes для помощи менеджерам и тренерам NBA в выявлении игроков, которые, вероятно, смогут преуспеть в условиях высокого давления и продержаться в карьере минимум пять лет. Проект включал инженерию переменных, очистку данных и построение модели машинного обучения для разработки предсказательного инструмента на основе данных об эффективности игроков.
+# Машинное обучение с использованием Python для предсказания продолжительности карьеры в NBA
 
-### Ключевые навыки
-Очистка данных, валидация, инженерия предикторов, построение модели Naive Bayes и оценка модели.
+### Задача  
+Построить модель классификации Naive Bayes для предсказания вероятности того, что баскетболист продержится в профессиональной карьере не менее 5 лет. Сфокусироваться на инженерии признаков, очистке данных и разработке модели на основе данных об игровых показателях.
+
+### Навыки  
+Очистка данных, валидация данных, инженерия признаков, классификация по алгоритму Naive Bayes, оценка ML-модели.
